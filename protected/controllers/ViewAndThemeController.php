@@ -2,12 +2,18 @@
 
 class ViewAndThemeController extends Controller
 {
-        public $layouts = '//layouts/column1';
+        public $layout = '//layouts/column1';
     
 	public function actionIndex()
 	{
 		$this->render('index');
 	}
+        
+        public function actionNewPage()
+        {
+            $this->layout = '//layouts/columnNewPage';
+            $this->render('newPage');
+        }
 
 	// Uncomment the following methods and override them if needed
 	/*
