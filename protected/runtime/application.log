@@ -419,3 +419,80 @@ Stack trace:
 REQUEST_URI=/yii_computer/index.php?r=Admin/news/admin
 HTTP_REFERER=http://my/yii_computer/index.php?r=site/login
 ---
+2012/09/10 12:23:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:23:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:24:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:24:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:25:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115&0%5Btarget%5D=_blank
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:26:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115&0%5Btarget%5D=_blank
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
+2012/09/10 12:26:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "newsDetail".' in /srv/www/htdocs/yii/framework/web/CController.php:484
+Stack trace:
+#0 /srv/www/htdocs/yii/framework/web/CController.php(271): CController->missingAction('newsDetail')
+#1 /srv/www/htdocs/yii/framework/web/CWebApplication.php(283): CController->run('newsDetail')
+#2 /srv/www/htdocs/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('viewAndTheme/ne...')
+#3 /srv/www/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /srv/www/htdocs/yii_computer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii_computer/index.php?r=viewAndTheme/newsDetail&id=115
+HTTP_REFERER=http://my/yii_computer/index.php?r=viewAndTheme/newPage
+---
